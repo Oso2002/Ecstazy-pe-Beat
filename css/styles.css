@@ -1,0 +1,53 @@
+
+body{
+    background-color: #00ADB5;;
+}
+
+hr{
+    width: 10%;
+    height: 0px;
+    border-style: dotted none none;
+    border-color: #EEEEEE;
+    border-width: 18px;
+}
+
+img{
+    height: 250px;
+}
+
+img:hover{
+    background-color: #EEEEEE;
+}
+h1{
+    color: #393E46;
+    font-size: 25px;
+}
+
+h3{
+    color: #393E46;
+}
+
+h2{
+    color: #393E46;
+}
+
+.Piese{
+    height: 100px;
+    border-radius: 50%;
+}
+
+.Piese:hover{
+    border-style: dotted;
+    border-color: gold;
+}
+
+.Galerie{
+    border-style: groove;
+    border-color: gold;
+}
+
+.Galerie:hover{
+    height: 500px;
+    width: auto;
+}
+
