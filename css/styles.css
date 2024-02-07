@@ -1,0 +1,154 @@
+body {
+  background-color: #000000;
+}
+
+p {
+  line-height: 35px;
+  color: #362222;
+  font-family: "Roboto", sans-serif;
+}
+
+hr {
+  width: 10%;
+  height: 0px;
+  border-style: dotted none none;
+  border-color: #eeeeee;
+  border-width: 18px;
+}
+
+
+
+h2 {
+  color: #171010;
+  font-family: "Work Sans", sans-serif;
+}
+
+h3 {
+  text-align: center;
+  color: #171010;
+  font-size: 2em;
+  font-family: "Work Sans", sans-serif;
+}
+
+.ecstazytitle {
+  margin-top: 0;
+  font-size: 4em;
+  margin-bottom: 0;
+  color: #171010;
+  font-family: "Work Sans", sans-serif;
+}
+
+
+.aroganta {
+  padding-bottom: 10px;
+  margin: 0 auto;
+  font-size: 2.75em;
+}
+
+.descriere {
+  font-size: 2em;
+}
+
+.ecstazyprofile {
+  width: 15%;
+  border-radius: 50%;
+  float: left;
+  margin-right: 50px;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.texttable {
+  font-size: 2em;
+  text-align: center;
+}
+
+.centertable {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.topdiv {
+  background-color: #5C8374;
+  height: 750px;
+  position: relative;
+  margin: 0;
+}
+
+.bottomdiv {
+  position: relative;
+  background-color: #183D3D;
+  height: 150px;
+  border-style: dashed;
+}
+
+.Piese {
+  height: 200px;
+  border-radius: 50%;
+}
+
+.Piese:hover {
+  border-style: dashed;
+  border-color: #005B41;
+  opacity: 50%;
+}
+
+.logostanga {
+  padding-top: 25px;
+  width: 5%;
+  float: left;
+  margin: auto 25px;
+}
+
+.logodreapta {
+  padding-top: 25px;
+  width: 5%;
+  float: right;
+  margin: auto 25px;
+}
+
+.logomijloc {
+  padding-top: 25px;
+  position: absolute;
+  width: 5%;
+  left: 500px;
+}
+
+.logostanga:hover {
+  opacity: 50%;
+}
+
+.logodreapta:hover {
+  opacity: 50%;
+}
+
+.logomijloc:hover {
+  opacity: 50%;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Arial;
+  color: #1B4242;
+  font-size: 26px;
+  background: #5C8374;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: absolute;
+  left: 960px;
+  top: 50px;
+}
+
+.btn:hover {
+  background: #93B1A6;
+  text-decoration: none;
+}
+
+.copyright{
+  position: absolute;
+  left: 960px;
+  top: 100px;
+}
